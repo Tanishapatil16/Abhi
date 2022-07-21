@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40119" started-at="2022-07-12T23:09:08 IST" finished-at="2022-07-12T23:09:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40119" started-at="2022-07-12T23:09:08 IST" finished-at="2022-07-12T23:09:49 IST">
+      <class name="PomTestNg.GrowwTest">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:PomTestNg.GrowwTest@1d6a08]" name="StartBrowser" is-config="true" duration-ms="27102" started-at="2022-07-12T23:09:09 IST" finished-at="2022-07-12T23:09:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="gettitle()[pri:0, instance:PomTestNg.GrowwTest@1d6a08]" name="gettitle" is-config="true" duration-ms="6353" started-at="2022-07-12T23:09:36 IST" finished-at="2022-07-12T23:09:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettitle -->
+        <test-method status="PASS" signature="loginpage()[pri:0, instance:PomTestNg.GrowwTest@1d6a08]" name="loginpage" duration-ms="6036" started-at="2022-07-12T23:09:42 IST" finished-at="2022-07-12T23:09:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:PomTestNg.GrowwTest@1d6a08]" name="refresh" is-config="true" duration-ms="70" started-at="2022-07-12T23:09:48 IST" finished-at="2022-07-12T23:09:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:PomTestNg.GrowwTest@1d6a08]" name="closebrowser" is-config="true" duration-ms="328" started-at="2022-07-12T23:09:48 IST" finished-at="2022-07-12T23:09:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- PomTestNg.GrowwTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
